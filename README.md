@@ -1,9 +1,3 @@
-![Your Repository's Stats](https://contrib.rocks/image?repo=MrBal/GoLang)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=MrBal)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/MrBal/GoLang)
----
 # GoLang-Tutorial
 General usage of GoLang terms
 
@@ -22,3 +16,7 @@ HelloWorld    HelloWorld.go
 >./HelloWorld
 Hello World
 ```
+# The Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=MrBal/GoLang)
+# Profile Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=MrBal)
